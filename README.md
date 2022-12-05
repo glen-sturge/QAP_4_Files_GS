@@ -15,4 +15,4 @@ valid_fun.py - functions library for validations.
 
 fmt_fun.py - functions library focusing on formating.
 
-total_claims_graph.py - program to graph total amount of claims for each month from January to December.
+total_claims_graph.py - program to graph total value of claims for each month from January to December.
